@@ -281,7 +281,7 @@ git commit -m "说明"
 git remote add 别名 URL
 ```
 
-这里的URL为![image-20250225153830327](image-20250225153830327.png)
+这里的URL为![image-20250225153830327](./img/image-20250225153830327.png)
 
 ​	别名一般默认为orgin
 
